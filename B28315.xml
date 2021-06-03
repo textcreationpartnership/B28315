@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Presbyterians described in the character of their predecessours the Pharisees.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28315</idno><idno type="EEBO-CITATION">99883413</idno>
+  <idno type="VID">201371</idno>
+  <idno type="EEBO-PROQUEST">2240888633</idno>
+  
+            <idno type="STC">Wing P3226</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1897.c.19[19]</idno>
+            <idno type="STC">ESTC R20647</idno>
+            <idno type="PROQUEST">ocm99883413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883413e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201371)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:2[122-123a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Presbyterians described in the character of their predecessours the Pharisees.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Hinchman, at the Kings-head in Westminster-hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:201371:1"/>
+            <head>THE Presbyterians described In the Character of their Predecessours THE PHARISEES.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MATTH. V. XX.</hi>
+                  </bibl>
+                  <p>I say unto you, that except your Righteousness exceed the Righteous<g ref="char:EOLhyphen"/>ness of the <hi>Scribes</hi> and <hi>Pharisees,</hi> you shall in no case enter into the Kingdom of Heaven.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">J</seg>Osephus,</hi> though himself a Pharisee, gives this Character of them, That they were a Crafty and Subtil Generation of Men, and so perverse even to Princes themselves, that they would not fear many times openly to affront and oppose them; and so far had they insinuated themselves into the affections and estimations of the Populacy, that their good or ill word was enough to make or blast any one with the people, who would implicitely believe them, let their report be never so false or malitious. Therefore King <hi>Alexander Jannaeus</hi> very wisely advised his Queen, when he lay upon his Death-Bed, That if she would secure the Kingdom to her self, and her Successors, she should bestow some Authority upon the <hi>Pharisees;</hi> who would sound her praise, and obtain her the peoples Favour. He further added, that after his Death she should go to <hi>Jerusalem,</hi> and make the most plausible Speech she could to them; promising them that she would do nothing in the Administration of the Government, but by their advice; and that by this means she should Reign in great quiet and assurance. Certain it is, they were so infinitely Proud and Insolent, Surly and Ill-natur'd, that they hated all Mankind but themselves, and cen<g ref="char:EOLhyphen"/>sured whosoever would not be of their way, as a Villain and a Reprobate: Greatly Zealous to gather <hi>Proselytes</hi> to their party; not to make them more Religious, but more Fierce and Cruel, more Carping and Censorious, more Heady and High-minded; in short, <hi>Twofold more the Children of the Devil than they were before.</hi> All Religion and kindness was confin'd within the bounds of their <hi>own Party,</hi> and the first Principles wherewith they Inspir'd their new Converts were, That none but they were the <hi>godly party,</hi> and that all other persons were Slaves, and Sons of the Earth: and therefore especially endeavour'd to Inspire them with a mighty Zeal and Fierceness against all that differ'd from them; so that if any one did but speak a good word of our Saviour or his Apostles Institutions, he should be presently Excommunicated and cast out, persecuted, and devoted to the Death. To this end, they were
+<pb n="2" facs="tcp:201371:2"/>wont not onely to <hi>Separate,</hi> but <hi>Discriminate</hi> themselves from the herd and community, by some peculiar notes and badges of Distinction; but they were especially active and diligent in <hi>what cost them little,</hi> the outward instances of Religion, such Duties especially as did more immediately refer to God Almighty, as frequent Fasting and Praying; which they did very often, and very long, with <hi>Demure</hi> and <hi>Mortified looks,</hi> in a <hi>whining</hi> and an <hi>affected Tone:</hi> and they so contrived the Scheme of their Religion, that what they did might <hi>be seen of men</hi> to the best advantage. Yet under all this <hi>seeming Sanctity,</hi> they were but Religious Villains, <hi>Spiteful, Malitious, Griping, Co<g ref="char:EOLhyphen"/>vetous,</hi> great Oppressors, <hi>Merciless, Dealers,</hi> Heady, <hi>Seditious, Rebellious,</hi> and indeed guilty of most kinds of Immorality; all which they thought to palliate and varnish over with their <hi>more than ordinary pretence</hi> of Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Another Branch of this Sect there was, called <hi>the Zealots;</hi> These men were mighty Assertors of the Law, and the <hi>Strictness</hi> and <hi>Purity</hi> of Reli<g ref="char:EOLhyphen"/>gion, assuming a Liberty to themselves to question Notorious Offenders, without staying for the ordinary Formalities of the Law; nay, when they thought good, executed Capital vengeance on them. And being not timely Impeded, their Zeal degenerated into all manner of Licentiousness and wild Extravagance; and they not onely became the pests of the Commonwealth at home, but opened the Door for the <hi>Romans</hi> to break in upon them, to their final and irrecoverable Ruine; and they were continually prompting the people to throw off the <hi>Roman</hi> Yoke, and Vindicate themselves in their <hi>native liberty;</hi> and when they had turn'd all things into hurry and confusion, themselves in the mean time fisht in these troubled waters. <hi>Josephus</hi> gives a large account of them, and every where bewails them as the great Plague of the Nation: He tells us of them, That they scrupled not to rob any; to kill many of the prime Nobility, under pretence of <hi>holding Correspondence</hi> with the <hi>Romans,</hi> and <hi>betraying the liberty</hi> of their Country; openly glorying that herein they were the <hi>benefactors</hi> and <hi>Saviours</hi> of <hi>the People.</hi> They abrogated the <hi>Succession</hi> of antient Families, thrusting obscure and ignoble persons into high Offices, that so they might oblige the most infamous Villains to their party. And as if not content to injure men, they affronted Heaven, and proclaimed defiance to the Divinity of self, by breaking into and prophaning the most holy Place; stiling themselves Zealots (says he) as if their undertakings were good and honourable, while they were greedy and emulous of the great<g ref="char:EOLhyphen"/>est Wickednesses, and out did the worst of men. Many attempts were made by <hi>Annas</hi> the High-Priest, to reduce them to order and sobriety: But neither force of Arms nor fair and gentle-methods could do any good upon them; they held out, and went on in their Violent proceedings, and joyning with the <hi>Idumeans,</hi> commited all manner of outrage, slaying the <hi>High-Priest</hi> him<g ref="char:EOLhyphen"/>self. Nay, when <hi>Jerusalem</hi> was straitly Besieged by the <hi>Romans,</hi> and their danger equal with the rest, yet they ceased not to create <hi>Tumults</hi> and <hi>Facti<g ref="char:EOLhyphen"/>ons</hi> within, and were indeed the main cause of the <hi>Jews</hi> destruction.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Hinchman,</hi> at the Kings-head in <hi>Westminster-hall.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
